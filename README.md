@@ -5,6 +5,7 @@ Frontend Mentor has a pretty good way to make us learn by praticing while we sol
 1. [QRCode Component](./qr-code-component-main/index.html)
 2. [Blog preview card](./blog-preview-card-main/index.html)
 3. [Social links profile](./social-links-profile-main/index.html)
+3. [Recipe page](https://marcosnathan.github.io/recipe-page-main/)
 
 
 ## Author
